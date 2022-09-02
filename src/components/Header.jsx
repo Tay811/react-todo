@@ -1,10 +1,10 @@
 import React from "react"
 
-function Header({name}){
+function Header(){
     return <nav className="header-main">
         <div className="header-wrapper">
             <ul className="header-span">
-                <span>Ваш никнейм: {name}</span>
+                <span></span>
             </ul>
         </div>
     </nav>
