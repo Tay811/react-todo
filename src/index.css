@@ -91,3 +91,15 @@
   background-position: center; 
   height: 750px;
 }
+
+@media (max-width: 480px){
+
+  .custom-form  {
+    width: 320px;
+
+  }
+  .todo-box {
+    width: 320px;
+  }
+  
+}
